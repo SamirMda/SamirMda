@@ -3,13 +3,13 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br/>
+<br/><br />
 
 Hi, I’m [Samir Mdahoma](https://www.samirmdahoma.fr/), a passionate mobile developper. Here you can have access to my personnel project and have a glimpse of my competences.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 You want to reach me, contact me by mail [email](mailto:samir.mdahoma@gmail.com)
+- 📫 You want to reach me, contact me by [email](mailto:samir.mdahoma@gmail.com)
 
 Hope to see you soon :)
 
