@@ -6,9 +6,6 @@
 <br/><br />
 
 Hi, I’m [Samir Mdahoma](https://www.samirmdahoma.fr/), a passionate mobile developper. Here you can have a look to my personnel projects and have a glimpse of my competences.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 You want to reach me, contact me by [email](mailto:samir.mdahoma@gmail.com)
 
 Hope to see you soon :)
