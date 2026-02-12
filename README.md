@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/samirmdahoma/">
-  <img align="left" alt="Samir's LinkedIN" width="22px" src="https://media.licdn.com/dms/image/v2/D4E35AQGckzPBCsGxsA/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1723827450298?e=1771531200&v=beta&t=F3_O75EkhAkvi6OKfy9dq_QoGTEb1W3nTlpljilng-I" />
+  <img align="left" alt="Samir's LinkedIN" width="64px" src="https://media.licdn.com/dms/image/v2/D4E35AQGckzPBCsGxsA/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1723827450298?e=1771531200&v=beta&t=F3_O75EkhAkvi6OKfy9dq_QoGTEb1W3nTlpljilng-I" />
 </a>
 
 <br/><br />
